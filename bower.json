@@ -8,7 +8,6 @@
   "description": "Codenet.io public facing website",
   "main": "index.html",
   "license": "All Rights Reserved",
-  "directory": "www/lib",
   "ignore": [
     "**/.*",
     "node_modules",
